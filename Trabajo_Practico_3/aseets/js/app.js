@@ -70,5 +70,9 @@ while (opciones != 0) {
       break;
     case 0:
       alert("adios que tenga un buen dia ");
+      break;
+    default:
+      alert('valorno reconosido');
+      break;
   }
 }
